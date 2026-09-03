@@ -10,6 +10,7 @@ import type { ReactNode } from "react";
 import appCss from "../styles.css?url";
 import { NotFoundPage } from "@/components/nz/not-found";
 import { SiteJsonLd } from "@/components/nz/json-ld";
+import { ChatAIWidget } from "@/components/nz/chatai-widget";
 import { SITE } from "@/components/nz/projects-data";
 import { OG_IMAGE } from "@/lib/seo";
 
@@ -108,6 +109,7 @@ function RootDocument({ children }: Readonly<{ children: ReactNode }>) {
           }}
         />
         {children}
+        <ChatAIWidget />
         <ScrollRestoration />
         <Scripts />
       </body>
