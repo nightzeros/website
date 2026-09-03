@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ChatAI product issues
+    url: https://github.com/nightzeros/chatai/issues
+    about: Bugs and features for the ChatAI application, SDK, and packages
+  - name: Documentation
+    url: https://docs.nightzeros.com
+    about: Installation, privacy, self-hosting, and product docs
+  - name: Security reports
+    url: https://docs.nightzeros.com/security
+    about: Report vulnerabilities privately — do not open a public issue

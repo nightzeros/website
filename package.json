@@ -1,6 +1,16 @@
 {
   "name": "nightszeros.com",
   "private": true,
+  "description": "NightZeros studio website — open-source AI and developer tools.",
+  "homepage": "https://nightszeros.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightzeros/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nightzeros/website/issues"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite dev",
