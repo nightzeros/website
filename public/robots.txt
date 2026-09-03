@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# AI / assistant discovery
+# https://llmstxt.org
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+Sitemap: https://nightszeros.com/sitemap.xml

@@ -1,0 +1,42 @@
+# NightZeros
+
+> Independent studio building open-source AI and developer tools.
+> Brand statement: Build beyond the obvious.
+
+NightZeros ships practical developer products in the open. The current flagship project is ChatAI (NZ/001).
+
+## Site
+
+- [Home](https://nightszeros.com/): Studio overview
+- [Projects](https://nightszeros.com/projects): What NightZeros is building
+- [ChatAI](https://nightszeros.com/chatai): Product page for NZ/001
+- [Open Source](https://nightszeros.com/open-source): Source, packages, contributing posture
+- [About](https://nightszeros.com/about): Studio mission and principles
+- [Security](https://nightszeros.com/security): Responsible disclosure and product security posture
+
+## Product
+
+- [ChatAI app](https://app.nightzeros.com/): Hosted ChatAI application
+- [ChatAI docs](https://docs.nightzeros.com/): Installation, configuration, privacy, self-hosting
+- [Security policy](https://docs.nightzeros.com/security): Vulnerability reporting guidance
+- [Privacy](https://docs.nightzeros.com/privacy): Privacy documentation
+- [Self-hosting](https://docs.nightzeros.com/self-hosting): Run ChatAI yourself
+
+## Open source
+
+- [GitHub org](https://github.com/nightzeros)
+- [ChatAI repository](https://github.com/nightzeros/chatai)
+- [npm org](https://www.npmjs.com/org/nightzeros)
+
+## Packages
+
+- [@nightzeros/chatai-react](https://www.npmjs.com/package/@nightzeros/chatai-react)
+- [@nightzeros/chatai-sdk](https://www.npmjs.com/package/@nightzeros/chatai-sdk)
+- [@nightzeros/chatai-widget](https://www.npmjs.com/package/@nightzeros/chatai-widget)
+- [@nightzeros/chatai-widget-core](https://www.npmjs.com/package/@nightzeros/chatai-widget-core)
+
+## Optional
+
+- [Full LLM context](https://nightszeros.com/llms-full.txt)
+- [Sitemap](https://nightszeros.com/sitemap.xml)
+- [robots.txt](https://nightszeros.com/robots.txt)

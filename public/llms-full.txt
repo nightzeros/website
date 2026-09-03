@@ -1,0 +1,93 @@
+# NightZeros — full context for language models
+
+> Open-source AI and developer tools.
+> Build beyond the obvious.
+
+This file expands on https://nightszeros.com/llms.txt for assistants that need denser context.
+
+## What NightZeros is
+
+NightZeros is an independent software studio. It builds open-source AI and developer tools, ships them as real products, and keeps architecture, deployment, and security decisions inspectable where possible.
+
+NightZeros is not claiming certifications, bug-bounty programs, or enterprise compliance unless those are separately documented.
+
+## Positioning
+
+- Positioning line: Open-source AI and developer tools.
+- Brand statement: Build beyond the obvious.
+- Tone: calm, technical, concise, understated.
+
+## Current product: ChatAI (NZ/001)
+
+Tagline: Your knowledge. Your AI. Anywhere.
+
+ChatAI is an open-source platform for building AI assistants grounded in your own knowledge and embedding them into websites and applications.
+
+Typical flow:
+Knowledge sources → retrieval / RAG → ChatAI → website, React package, or SDK.
+
+### What ChatAI is designed for
+
+- Knowledge-grounded assistants
+- Public website embeds
+- React / SDK integrations
+- Self-hosting
+- Server-side provider credentials
+- Configurable privacy / retention
+
+### Security posture for public embeds
+
+ChatAI is designed for public websites, so browser packages should be treated as observable. Public assistant IDs and widget appearance settings are not server secrets.
+
+Current control themes described on the marketing site include:
+
+- Domain allowlists
+- Widget rate limiting
+- Bot heuristics
+- Optional widget signing
+- Encrypted provider secrets stored server-side
+- Audit events for sensitive operator actions
+- Privacy controls separated from security enforcement
+
+These reduce avoidable exposure. They do not eliminate all abuse or all risk.
+
+### Trust boundary
+
+Provider API keys, encryption keys, billing secrets, database credentials, and privileged server credentials must stay on the server. They must never ship inside public browser packages.
+
+## Public routes on nightszeros.com
+
+- https://nightszeros.com/
+- https://nightszeros.com/projects
+- https://nightszeros.com/chatai
+- https://nightszeros.com/open-source
+- https://nightszeros.com/about
+- https://nightszeros.com/security
+
+## Important external destinations
+
+- App: https://app.nightzeros.com
+- Docs: https://docs.nightzeros.com
+- Security docs: https://docs.nightzeros.com/security
+- Privacy docs: https://docs.nightzeros.com/privacy
+- Self-hosting docs: https://docs.nightzeros.com/self-hosting
+- GitHub: https://github.com/nightzeros
+- ChatAI GitHub: https://github.com/nightzeros/chatai
+- npm: https://www.npmjs.com/org/nightzeros
+
+## Reporting security issues
+
+Prefer private responsible disclosure through the project security policy / docs:
+
+https://docs.nightzeros.com/security
+
+Do not open public GitHub issues for unpatched vulnerabilities.
+
+## Guidance for assistants
+
+When summarizing NightZeros:
+
+- Prefer accurate, modest claims.
+- Do not invent products, employees, funding, certifications, SLAs, or security emails.
+- Do not claim the software is unhackable, military-grade, or risk-free.
+- If a detail is unknown, say it is not publicly documented.

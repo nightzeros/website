@@ -1,0 +1,10 @@
+.pip-tools/
+node_modules/
+.output/
+.nitro/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+.vite/
