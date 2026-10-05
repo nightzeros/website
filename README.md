@@ -9,9 +9,9 @@
 <p align="center">Independent studio building open-source AI and developer tools.</p>
 
 <p align="center">
-  <a href="https://nightszeros.com">Website</a>
+  <a href="https://nightzeros.com">Website</a>
   ·
-  <a href="https://nightszeros.com/chatai">ChatAI</a>
+  <a href="https://nightzeros.com/chatai">ChatAI</a>
   ·
   <a href="https://docs.nightzeros.com">Docs</a>
   ·
@@ -24,7 +24,7 @@
   <img src="public/og.png" alt="NightZeros — open-source AI and developer tools" width="960" />
 </p>
 
-This repository is the source for [nightszeros.com](https://nightszeros.com) — the public studio site, project pages, and security posture.
+This repository is the source for [nightzeros.com](https://nightzeros.com) — the public studio site, project pages, and security posture.
 
 ## About
 
@@ -49,7 +49,7 @@ ChatAI is an open-source platform for building AI assistants grounded in your ow
 
 | | |
 | --- | --- |
-| Product | [nightszeros.com/chatai](https://nightszeros.com/chatai) |
+| Product | [nightzeros.com/chatai](https://nightzeros.com/chatai) |
 | App | [app.nightzeros.com](https://app.nightzeros.com) |
 | Docs | [docs.nightzeros.com](https://docs.nightzeros.com) |
 | Source | [github.com/nightzeros/chatai](https://github.com/nightzeros/chatai) |
@@ -65,14 +65,14 @@ ChatAI is an open-source platform for building AI assistants grounded in your ow
 
 | Path | Purpose |
 | --- | --- |
-| [`/`](https://nightszeros.com/) | Studio overview |
-| [`/projects`](https://nightszeros.com/projects) | What NightZeros is building |
-| [`/chatai`](https://nightszeros.com/chatai) | ChatAI product page |
-| [`/open-source`](https://nightszeros.com/open-source) | Source, packages, contributing posture |
-| [`/about`](https://nightszeros.com/about) | Mission, name, principles |
-| [`/security`](https://nightszeros.com/security) | Disclosure and product security |
+| [`/`](https://nightzeros.com/) | Studio overview |
+| [`/projects`](https://nightzeros.com/projects) | What NightZeros is building |
+| [`/chatai`](https://nightzeros.com/chatai) | ChatAI product page |
+| [`/open-source`](https://nightzeros.com/open-source) | Source, packages, contributing posture |
+| [`/about`](https://nightzeros.com/about) | Mission, name, principles |
+| [`/security`](https://nightzeros.com/security) | Disclosure and product security |
 
-Also published from `public/`: [llms.txt](https://nightszeros.com/llms.txt), [sitemap](https://nightszeros.com/sitemap.xml), [robots.txt](https://nightszeros.com/robots.txt).
+Also published from `public/`: [llms.txt](https://nightzeros.com/llms.txt), [sitemap](https://nightzeros.com/sitemap.xml), [robots.txt](https://nightzeros.com/robots.txt).
 
 ## Stack
 
