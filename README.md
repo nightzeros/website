@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://nightzeros.com">Website</a>
   ·
-  <a href="https://nightzeros.com/chatai">ChatAI</a>
+  <a href="https://app.nightzeros.com">ChatAI</a>
   ·
   <a href="https://docs.nightzeros.com">Docs</a>
   ·
@@ -46,10 +46,9 @@ Zero is the starting point: an idea, an empty repository, a first line of code. 
 **Your knowledge. Your AI. Anywhere.**
 
 ChatAI is an open-source platform for building AI assistants grounded in your own knowledge and embedding them into websites and applications.
-
 | | |
 | --- | --- |
-| Product | [nightzeros.com/chatai](https://nightzeros.com/chatai) |
+| Product | [app.nightzeros.com](https://app.nightzeros.com) |
 | App | [app.nightzeros.com](https://app.nightzeros.com) |
 | Docs | [docs.nightzeros.com](https://docs.nightzeros.com) |
 | Source | [github.com/nightzeros/chatai](https://github.com/nightzeros/chatai) |
